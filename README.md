@@ -31,7 +31,9 @@ This data contains information from 1962 up to the current day of plane accident
 
 # Conclusion
 
-In conclusion we recommend the () plane for transportation, the () plane for cargo, and the (testing) helicopter.
+In conclusion we recommend the Boeing 747 plane for transportation, the () plane for cargo, and the (testing) helicopter.
+
+The Boeing 747 has a balance of both safety and space, and also has the ability to carry passengers. 
 
 In addition we found:
 
