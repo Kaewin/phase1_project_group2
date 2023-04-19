@@ -8,25 +8,29 @@ https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses
 https://docs.google.com/document/d/1E14m0Rzj6lvLjL-SPDnxHwR3FHaAxe7cRZ2fNWmaQ-M/edit
 
 
-Goal: Determine which aircraft are the lowest risk for the company
+# Overview
 
-* overview
-* business understanding
-  * stakeholder and key business questions
-* data analysis and understanding
-  * source of data
-  * description of data
-* three visualizations
-  * same in slide and notebook
-* conclusion
+The company is looking to expand into the aircraft industry, with an interest in private and commercial enterprises. 
 
+# Key Business Questions
 
+The end goal of our data we answer the question of which aircraft are the lowest risk to the company, as well as provide three concrete recommendations as to which aircraft the company can invest in.
 
+# Data Analysis And Understanding
 
+### Source of Data
 
+The source of the data is Kaggle's Aviation Accident Database & Synopses dataset, which has data up to 2021.
+https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses
 
-NEED:
+### Description of Data
 
-Three recommendations
+This data contains information from 1962 up to the current day of plane accidents and incidents, with the planes coming from the US. 
 
-Three visualizations
+### Three Visualizations
+
+# Conclusion
+
+In conclusion we recommend the () plane for transportation, the () plane for cargo, and the () helicopter.
+
+In addition we found:
