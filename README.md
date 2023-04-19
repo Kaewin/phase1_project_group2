@@ -31,7 +31,7 @@ This data contains information from 1962 up to the current day of plane accident
 
 # Conclusion
 
-In conclusion we recommend the () plane for transportation, the () plane for cargo, and the () helicopter.
+In conclusion we recommend the () plane for transportation, the () plane for cargo, and the (testing) helicopter.
 
 In addition we found:
 
