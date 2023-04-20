@@ -35,9 +35,13 @@ This data contains plane crash information from as early as 1948 to 2021 consist
 
 ### Three Visualizations
 
-- Visualization one is a comparison of the crashes of each make with a different amount of engines. The color of each make's bar represents how many were Injured in the total number of crashes, while the text represens how many were uninjured for the total amount of crahses.
+- Visualization one is a comparison of the all crashes for any make with with three engines. The color of each make's bar represents how many were Injured in the total number of crashes, while the text represens how many were uninjured for the total amount of crahses.
 ![alt text](https://github.com/Kaewin/phase1_project_group2/blob/main/Plane%20makes%20with%20three%20engines%20displaying%20how%20many%20injured%20or%20uninjured%20in%20all%20crashes.png)
 
+- Visualization two is (...)
+
+
+- Visualization three is (...)
 
 # Conclusion
 
@@ -45,7 +49,7 @@ After analysing the data and forming our visualizations we are able to come to t
 
 - The Boeing 747 becuase the Boeing 747 has a balance of both safety and space, a nose that opens, and also has the ability to carry passengers. 
 
-- Makes three to four engines depending on commercial or cargo, because when comparing all the makes that crashed with 2 engines we can see there is a significantly larger amount of crashes with 2 engines than there are with 3 or 4 engines. 3 Engines for commercial is recommended because our data analysis shows less crashes with injuries while 4 engines will most likely be recommended for cargo because of it higher power but slightly higher injury rate.
+- To use a boeing make with three engine makes for passenger commercial planes because of its low accident to injury ratio.
 
 - And the Sikorsky S76 helicopter.
 
