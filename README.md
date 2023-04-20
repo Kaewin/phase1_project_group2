@@ -31,7 +31,7 @@ https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses
 
 ### Description of Our Data
 
-This data contains plane crash information from as ealry as 1948 to 2021 consisting our various components explaining each crash like the make and model of the plane that crashed and the damage done to the plane from the accident, etc.
+This data contains plane crash information from as early as 1948 to 2021 consisting our various components explaining each crash like the make and model of the plane that crashed and the damage done to the plane from the accident, etc.
 
 
 ### Three Visualizations
