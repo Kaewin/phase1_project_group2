@@ -53,7 +53,7 @@ After analysing the data and forming our visualizations we are able to come to t
 
 - To use a boeing make with three engine makes for passenger commercial planes because of its low accident to injury ratio.
 
-- And the Sikorsky S76 helicopter for private enterprises.
+- And the Sikorsky S76 helicopter for private enterprises since it has reliably held a high number of average uninjured passengers over time and because the Bell 214ST ceased production in 1993.
 
 
 
