@@ -1,41 +1,52 @@
-# phase1_project_group2
+# Compiling Data of Aviations with the Least Amount of Risk 
+![alt text](https://www.airpics.net/UserFiles/pics/large/PH-BFH-Boeing-747-400M-KLM-Royal-Dutch-Airlines/15650/15622l.jpg)
 
-### Here is a link to the dataset.
+### Link to the Presentation:
 
-https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses
 
-### Here is a link to the google document:
-https://docs.google.com/document/d/1E14m0Rzj6lvLjL-SPDnxHwR3FHaAxe7cRZ2fNWmaQ-M/edit
+### Link to the Notebook:
+
+
 
 
 # Overview
 
-The company is looking to expand into the aircraft industry, with an interest in private and commercial enterprises. 
+We were hired by a company that is looking to expand into the aircraft industry, with an interest in private and commercial enterprises. 
 
-# Key Business Questions
 
-The end goal of our data we answer the question of which aircraft are the lowest risk to the company, as well as provide three concrete recommendations as to which aircraft the company can invest in.
+# Key Business Problem and Question
+
+The end goal of our data analysis, is to answer the question of which aircraft is going to be the lowest risk for the company's endeavour's, as well as provide three concrete business recommendations explaining which aircraft the company should invest in.
+
 
 # Data Analysis And Understanding
 
-### Source of Data
 
-The source of the data is Kaggle's Aviation Accident Database & Synopses dataset, which has data up to 2021.
+### Source of Original Data
+
+The source of the data is Kaggle's Aviation Accident Database & Synopses dataset.
 https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses
 
-### Description of Data
 
-This data contains information from 1962 up to the current day of plane accidents and incidents, with the planes coming from the US. 
+### Description of Our Data
+
+This data contains plane crash information from as ealry as 1948 to 2021 consisting our various components explaining each crash like the make and model of the plane that crashed and the damage done to the plane from the accident, etc.
+
 
 ### Three Visualizations
 
+- Visualization one is a comparison of the crashes of each make with a different amount of engines. The color of each make's bar represents how many were Injured in the total number of crashes, while the text represens how many were uninjured for the total amount of crahses.
+
+
 # Conclusion
 
-In conclusion we recommend the Boeing 747 plane for transportation, the () plane for cargo, and the (testing) helicopter.
+After analysing the data and forming our visualizations we are able to come to the conclusion of recommending the follwoing for passenger and cargo transportaion via plane, and the (testing) helicopter;
 
-The Boeing 747 has a balance of both safety and space, and also has the ability to carry passengers. 
+- The Boeing 747 model and make becuase (...) the Boeing 747 has a balance of both safety and space, and also has the ability to carry passengers. 
 
-In addition we found:
+- With four engines (...)
+
+- And the (testing) helicopter.
 
 
-:)
+
