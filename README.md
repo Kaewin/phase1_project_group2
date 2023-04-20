@@ -62,9 +62,25 @@ After analysing the data and forming our visualizations we are able to come to t
 
 - The Boeing 747 becuase the Boeing 747 has a balance of both safety and space, a nose that opens, and also has the ability to carry passengers. 
 
-- To use a boeing make with three engine makes for passenger commercial planes because of its low accident to injury ratio.
+- The Boeing 727 make is the only Boeing make with three engines, and since three engine makes are the safest we will therfore reccommend that for passenger commercial planes.
 
 - And the Sikorsky S76 helicopter for private enterprises since it has reliably held a high number of average uninjured passengers over time and because the Bell 214ST ceased production in 1993.
 
 
+# References
 
+“198e2ca2ac95198d0f1e4562e14119fb.Jpg (JPEG Image, 236 × 259 Pixels).” Accessed April 20, 2023. https://i.pinimg.com/236x/19/8e/2c/198e2ca2ac95198d0f1e4562e14119fb.jpg?nii=t.
+
+“15622l.Jpg (JPEG Image, 1024 × 703 Pixels).” Accessed April 20, 2023. https://www.airpics.net/UserFiles/pics/large/PH-BFH-Boeing-747-400M-KLM-Royal-Dutch-Airlines/15650/15622l.jpg.admin. 
+
+“Types of Aircraft Shipping Cargo and Types of Loads.” International Forwarding Association Blog (blog), October 24, 2019. https://ifa-forwarding.net/blog/air-freight-in-europe/types-of-aircraft-shipping-cargo-and-types-of-loads/. 
+
+Bailey, Joanna. “The Global Cargo Workhorse: Why The Boeing 747F Is Winning.” Simple Flying, February 5, 2021. https://simpleflying.com/global-cargo-workhorse-747f/.
+
+“Boeing 747.” In Wikipedia, April 15, 2023. https://en.wikipedia.org/w/index.php?title=Boeing_747&oldid=1149987448.
+
+Business Jet Traveler. “Boeing BBJ 747-8i,” October 27, 2021. https://bjtonline.com/business-jet-news/boeing-bbj-747-8i.
+
+“Reciprocating Engine.” In Wikipedia, March 14, 2023. https://en.wikipedia.org/w/index.php?title=Reciprocating_engine&oldid=1144567996.
+
+“Sikorsky S-76.” In Wikipedia, March 28, 2023. https://en.wikipedia.org/w/index.php?title=Sikorsky_S-76&oldid=1147115454.
