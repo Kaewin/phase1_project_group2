@@ -47,7 +47,7 @@ After analysing the data and forming our visualizations we are able to come to t
 
 - Makes three to four engines depending on commercial or cargo, because when comparing all the makes that crashed with 2 engines we can see there is a significantly larger amount of crashes with 2 engines than there are with 3 or 4 engines. 3 Engines for commercial is recommended because our data analysis shows less crashes with injuries while 4 engines will most likely be recommended for cargo because of it higher power but slightly higher injury rate.
 
-- And the (testing) helicopter.
+- And the Sikorsky S76 helicopter.
 
 
 
