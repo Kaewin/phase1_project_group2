@@ -37,7 +37,7 @@ This data contains plane crash information from as early as 1948 to 2021 consist
 ### Three Visualizations
 
 - Visualization one is a comparison of the crashes of each make with a different amount of engines. The color of each make's bar represents how many were Injured in the total number of crashes, while the text represens how many were uninjured for the total amount of crahses.
-
+![Alt text](/phase1_project_group2/visuals for engines111.png?raw=true)
 
 
 # Conclusion
