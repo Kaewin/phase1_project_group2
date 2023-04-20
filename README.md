@@ -41,7 +41,9 @@ This data contains plane crash information from as early as 1948 to 2021 consist
 - Visualization two is (...)
 
 
-- Visualization three is (...)
+- Visualization three shows which helicopter model holds the highest average of uninjured passengers during an accident.
+![3rd viz](https://user-images.githubusercontent.com/116228715/233461232-6b1408a0-df16-4c88-9f62-3da7fe28af36.png)
+
 
 # Conclusion
 
@@ -51,7 +53,7 @@ After analysing the data and forming our visualizations we are able to come to t
 
 - To use a boeing make with three engine makes for passenger commercial planes because of its low accident to injury ratio.
 
-- And the Sikorsky S76 helicopter.
+- And the Sikorsky S76 helicopter for private enterprises.
 
 
 
