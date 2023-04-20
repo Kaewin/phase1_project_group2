@@ -37,7 +37,7 @@ This data contains plane crash information from as early as 1948 to 2021 consist
 ### Three Visualizations
 
 - Visualization one is a comparison of the crashes of each make with a different amount of engines. The color of each make's bar represents how many were Injured in the total number of crashes, while the text represens how many were uninjured for the total amount of crahses.
-![Alt text](Kaewin/phase1_project_group2/visuals for engines111.png?raw=true)
+![Alt text](/../<main>/phase1_project_group2/visuals for engines111.png?raw=true "Optional Title")
 
 
 # Conclusion
@@ -46,7 +46,7 @@ After analysing the data and forming our visualizations we are able to come to t
 
 - The Boeing 747 model and make becuase (...) the Boeing 747 has a balance of both safety and space, and also has the ability to carry passengers. 
 
-- With four engines (...)
+- Makes three to four engines depending on commercial or cargo, because when comparing all the makes that crashed with 2 engines we can see there is a significantly larger amount of crashes with 2 engines than there are with 3 or 4 engines. 3 Engines for commercial is recommended because our data analysis shows less crashes with injuries while 4 engines will most likely be recommended for cargo because of it higher power but slightly higher injury rate.
 
 - And the (testing) helicopter.
 
