@@ -42,9 +42,9 @@ This data contains plane crash information from as early as 1948 to 2021 consist
 
 # Conclusion
 
-After analysing the data and forming our visualizations we are able to come to the conclusion of recommending the follwoing for passenger and cargo transportaion via plane, and the (testing) helicopter;
+After analysing the data and forming our visualizations we are able to come to the conclusion of recommending the following for passenger and cargo transportation via plane, and the (testing) helicopter;
 
-- The Boeing 747 model and make becuase (...) the Boeing 747 has a balance of both safety and space, and also has the ability to carry passengers. 
+- The Boeing 747 becuase the Boeing 747 has a balance of both safety and space, a nose that opens, and also has the ability to carry passengers. 
 
 - Makes three to four engines depending on commercial or cargo, because when comparing all the makes that crashed with 2 engines we can see there is a significantly larger amount of crashes with 2 engines than there are with 3 or 4 engines. 3 Engines for commercial is recommended because our data analysis shows less crashes with injuries while 4 engines will most likely be recommended for cargo because of it higher power but slightly higher injury rate.
 
