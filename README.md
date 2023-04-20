@@ -35,11 +35,13 @@ This data contains plane crash information from as early as 1948 to 2021 consist
 
 ### Researching our Findings Regarding the Engines
 The Reciprocating engine was developed in the 18th century and stopped being as largely used in 1994. 
-A reciprocating engine is only one combustion engine hence they can only power small planes. (i.e 20 people)
-We decided to exclude the reciprocating engine and any makes with only 1 engine from our data to  determine what to recommend for planes. 
-![alt text](https://th.bing.com/th/id/R.0e14a32f8f3869fd1d0abe79edd96918?rik=74o9JRoQ8VN3og&riu=http%3a%2f%2flh6.ggpht.com%2f_1wtadqGaaPs%2fTGrR7lbJwQI%2fAAAAAAAARV4%2fCVPKt9egKqs%2ftmp274_thumb1.jpg%3fimgmax%3d800&ehk=lEj52xWR5JHCGN92L9Ym%2boS8TaC8q91WcUT2Y1z8rpM%3d&risl=&pid=ImgRaw&r=0)
 
-![alt text](https://i.pinimg.com/originals/c7/34/84/c734845a492ec7551cbc815c548ecda2.jpg)
+A reciprocating engine is only one combustion engine hence they can only power small planes. (i.e 20 people)
+
+We decided to exclude the reciprocating engine and any makes with only 1 engine from our data to  determine what to recommend for planes. 
+
+There are also crashes with 6 and 8 engines… those are not common and its unusual for a commercial passenger plane to have more than 4 engines. We also decided to exclude these engines.
+
 
 ### Three Visualizations
 
