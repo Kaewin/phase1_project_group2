@@ -47,7 +47,7 @@ After analysing the data and forming our visualizations we are able to come to t
 
 - With four engines (...)
 
-- And the (testing) helicopter.
+- And the Sikorsky S76 helicopter.
 
 
 
