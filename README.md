@@ -56,6 +56,8 @@ once we determine what of plane we are interested in we can analyze the crashes 
 Potentially deciding to cross off a value that will not be used for our specific aircraft for a business - for example the Reciprocating engine type is a single engine and has the most crashes compared to other engine types it is also rarely used today so we probably wouldn't be recommending an aircraft with that engine type.
 
 
+
+
 ### Researching our Findings Regarding the Engines
 
 The Reciprocating engine was developed in the 18th century and stopped being as largely used in 1994. 
@@ -65,6 +67,11 @@ A reciprocating engine is only one combustion engine hence they can only power s
 We decided to exclude the reciprocating engine and any makes with only 1 engine from our data to  determine what to recommend for planes. 
 
 There are also crashes with 6 and 8 engines… those are not common and its unusual for a commercial passenger plane to have more than 4 engines. We also decided to exclude these engines.
+
+When further looking into the 16 Boeing 727 (3 Engines) crashes we can see that only 3 of those 16 crashes had injuries, none of them including fatal injuries.
+Number DCA09FA048: 11 Serious Injuries, 1 Minor Injury
+Number DCA82IA031: 1 Serious Injury, 1 Minor Injury
+Number DFW06LA024: 1 Serious Injury
 
 
 ### Three Visualizations
