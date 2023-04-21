@@ -51,7 +51,7 @@ This brings us back to determining the size capacity of the aircraft so we will 
 
 once we determine what of plane we are interested in we can analyze the crashes based on our specific plane type… because we can actually take the “engine_type” and see which engine type has the most fatalities 
 
-*
+![alt text](https://github.com/Kaewin/phase1_project_group2/blob/main/engtype.png)
 
 Potentially deciding to cross off a value that will not be used for our specific aircraft for a business - for example the Reciprocating engine type is a single engine and has the most crashes compared to other engine types it is also rarely used today so we probably wouldn't be recommending an aircraft with that engine type.
 
