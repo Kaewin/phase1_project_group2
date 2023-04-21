@@ -62,9 +62,7 @@ Potentially deciding to cross off a value that will not be used for our specific
 
 ### Researching our Findings Regarding the Engines
 
-The Reciprocating engine was developed in the 18th century and stopped being as largely used in 1994. 
-
-A reciprocating engine is only one combustion engine hence they can only power small planes. (i.e 20 people)
+The Reciprocating engine was developed in the 18th century and stopped being as largely used in 1994. A reciprocating engine is only one combustion engine hence they can only power small planes. (i.e 20 people)
 
 We decided to exclude the reciprocating engine and any makes with only 1 engine from our data to determine what to recommend for planes. 
 
