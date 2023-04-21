@@ -74,7 +74,7 @@ There are also crashes with 6 and 8 engines… those are not common and its unus
 
 - Visualization two is comparing the aircraft damage between the three planes. 
 
-![2rd viz](https://github.com/Kaewin/phase1_project_group2/blob/main/vis_kaelyn_resized_again.png)\n
+![2rd viz](https://github.com/Kaewin/phase1_project_group2/blob/main/vis_kaelyn_resized_again.png)
 
 - Visualization three shows which helicopter model holds the highest average of uninjured passengers during an accident.
 ![3rd viz](https://user-images.githubusercontent.com/116228715/233461232-6b1408a0-df16-4c88-9f62-3da7fe28af36.png)
