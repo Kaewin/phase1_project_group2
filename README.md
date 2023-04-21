@@ -28,7 +28,7 @@ The end goal of our data analysis, is to answer the question of which aircraft i
 
 ### Source of Original Data
 
-The source of the data is Kaggle's Aviation Accident Database & Synopses dataset.
+The source of the data comes from the NTSB Avaitation Accident Database.
 https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses
 
 
