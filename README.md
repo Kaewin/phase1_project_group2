@@ -10,6 +10,8 @@
 ### Link to the Notebook:
 https://github.com/Kaewin/phase1_project_group2/blob/main/eda_file_fixed.ipynb
 
+### Link to Interactive Dashboard:
+[Tableau](https://public.tableau.com/app/profile/jonnie.brown/viz/LowRiskAviation/LowRiskAviation?publish=yes)
 
 # Overview
 
@@ -56,15 +58,22 @@ once we determine what of plane we are interested in we can analyze the crashes 
 Potentially deciding to cross off a value that will not be used for our specific aircraft for a business - for example the Reciprocating engine type is a single engine and has the most crashes compared to other engine types it is also rarely used today so we probably wouldn't be recommending an aircraft with that engine type.
 
 
+
+
 ### Researching our Findings Regarding the Engines
 
 The Reciprocating engine was developed in the 18th century and stopped being as largely used in 1994. 
 
 A reciprocating engine is only one combustion engine hence they can only power small planes. (i.e 20 people)
 
-We decided to exclude the reciprocating engine and any makes with only 1 engine from our data to  determine what to recommend for planes. 
+We decided to exclude the reciprocating engine and any makes with only 1 engine from our data to determine what to recommend for planes. 
 
-There are also crashes with 6 and 8 engines… those are not common and its unusual for a commercial passenger plane to have more than 4 engines. We also decided to exclude these engines.
+There are also crashes with 6 and 8 engines. Those are not common and its unusual for a commercial passenger plane to have more than 4 engines. We also decided to exclude these engines.
+
+When further looking into the 16 Boeing 727 (3 Engines) crashes we can see that only 3 of those 16 crashes had injuries, none of them including fatal injuries.
+Number DCA09FA048: 11 Serious Injuries, 1 Minor Injury
+Number DCA82IA031: 1 Serious Injury, 1 Minor Injury
+Number DFW06LA024: 1 Serious Injury
 
 
 ### Three Visualizations
@@ -76,19 +85,19 @@ There are also crashes with 6 and 8 engines… those are not common and its unus
 
 ![2rd viz](https://github.com/Kaewin/phase1_project_group2/blob/main/vis_kaelyn_resized_again.png)
 
-- Visualization three shows which helicopter model holds the highest average of uninjured passengers during an accident.
-![3rd viz](https://user-images.githubusercontent.com/116228715/233461232-6b1408a0-df16-4c88-9f62-3da7fe28af36.png)
+- Visualization three shows which helicopter model holds the highest average of uninjured passengers during a helicopter accident.
+![3rd viz](https://user-images.githubusercontent.com/116228715/233688979-650bbac8-6bd4-440c-828e-1131844236b8.png)
 
 
 # Conclusion
 
 After analysing the data and forming our visualizations we are able to come to the conclusion of recommending the following for passenger and cargo transportation via plane, and the (testing) helicopter;
 
-- The Boeing 747 becuase the Boeing 747 has a balance of both safety and space, a nose that opens, and also has the ability to carry passengers. 
-
 - The Boeing 727 make is the only Boeing make with three engines, and since three engine makes are the safest we will therfore reccommend that for passenger commercial planes.
 
-- And the Sikorsky S76 helicopter for private enterprises since it has reliably held a high number of average uninjured passengers over time and because the Bell 214ST ceased production in 1993.
+- The Boeing 747 for cargo transportation becuase the Boeing 747 has a balance of both safety and space, a nose that opens, and also has the ability to carry passengers.
+
+- And the Sikorsky S-92A helicopter for private enterprises since it holds the highest average of uninjured passengers during crashes. 
 
 
 # References
@@ -107,7 +116,7 @@ Business Jet Traveler. “Boeing BBJ 747-8i,” October 27, 2021. https://bjtonl
 
 “Reciprocating Engine.” In Wikipedia, March 14, 2023. https://en.wikipedia.org/w/index.php?title=Reciprocating_engine&oldid=1144567996.
 
-“Sikorsky S-76.” In Wikipedia, March 28, 2023. https://en.wikipedia.org/w/index.php?title=Sikorsky_S-76&oldid=1147115454.
+“Sikorsky S-92.” In Wikipedia, March 28, 2023. https://en.wikipedia.org/wiki/Sikorsky_S-92.
 
 Boeing 747 articles:
 https://thefearofflying.com/articles/what-is-the-safest-commercial-airplane/
