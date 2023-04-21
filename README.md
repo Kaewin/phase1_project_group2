@@ -107,3 +107,14 @@ Business Jet Traveler. “Boeing BBJ 747-8i,” October 27, 2021. https://bjtonl
 “Reciprocating Engine.” In Wikipedia, March 14, 2023. https://en.wikipedia.org/w/index.php?title=Reciprocating_engine&oldid=1144567996.
 
 “Sikorsky S-76.” In Wikipedia, March 28, 2023. https://en.wikipedia.org/w/index.php?title=Sikorsky_S-76&oldid=1147115454.
+
+Boeing 747 articles:
+https://thefearofflying.com/articles/what-is-the-safest-commercial-airplane/
+https://www.cliffordlaw.com/aviation-accidents-and-incidents/
+https://www.reuters.com/business/aerospace-defense/boeing-deliver-last-747-saying-goodbye-queen-skies-2023-01-31/
+https://www.businessinsider.com/50th-anniversary-boeing-747-queen-of-the-skies-passenger-flight-2020-1
+https://www.afr.com/companies/transport/are-smaller-planes-more-dangerous-than-larger-planes-20190207-h1ayaf
+https://en.wikipedia.org/wiki/Boeing_747_hull_losses
+
+Boeing 727 article: https://aviatorinsider.com/airplane-brands/boeing-727/
+
