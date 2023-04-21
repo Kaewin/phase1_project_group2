@@ -35,17 +35,6 @@ https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses
 This data contains plane crash information from as early as 1948 to 2021 consisting our various components explaining each crash like the make and model of the plane that crashed, the damage done to the plane from the accident, the number of enines on the plane tha crashes, how many were injured or uninjured throghout the crashes, etc.
 
 
-### Researching our Findings Regarding the Engines
-
-The Reciprocating engine was developed in the 18th century and stopped being as largely used in 1994. 
-
-A reciprocating engine is only one combustion engine hence they can only power small planes. (i.e 20 people)
-
-We decided to exclude the reciprocating engine and any makes with only 1 engine from our data to  determine what to recommend for planes. 
-
-There are also crashes with 6 and 8 engines… those are not common and its unusual for a commercial passenger plane to have more than 4 engines. We also decided to exclude these engines.
-
-
 ### Filtering Data
 
 What business are we operating with i.e -20 plane or - 300 plane? 
@@ -65,6 +54,17 @@ once we determine what of plane we are interested in we can analyze the crashes 
 *
 
 Potentially deciding to cross off a value that will not be used for our specific aircraft for a business - for example the Reciprocating engine type is a single engine and has the most crashes compared to other engine types it is also rarely used today so we probably wouldn't be recommending an aircraft with that engine type.
+
+
+### Researching our Findings Regarding the Engines
+
+The Reciprocating engine was developed in the 18th century and stopped being as largely used in 1994. 
+
+A reciprocating engine is only one combustion engine hence they can only power small planes. (i.e 20 people)
+
+We decided to exclude the reciprocating engine and any makes with only 1 engine from our data to  determine what to recommend for planes. 
+
+There are also crashes with 6 and 8 engines… those are not common and its unusual for a commercial passenger plane to have more than 4 engines. We also decided to exclude these engines.
 
 
 ### Three Visualizations
