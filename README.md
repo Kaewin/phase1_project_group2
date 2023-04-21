@@ -70,6 +70,14 @@ We decided to exclude the reciprocating engine and any makes with only 1 engine 
 
 There are also crashes with 6 and 8 engines. Those are not common and its unusual for a commercial passenger plane to have more than 4 engines. We also decided to exclude these engines.
 
+Planes with three engines have the LEAST amount crashes compared to other planes, 
+And the LEAST amount of accidents and total injured out of all categorized crashes,
+The percentage of three engine plane crashes in the total airplane crash data set is 2.4%.
+
+Planes with four engines crashed LESS than planes with two engines,
+But crashed MORE than the planes with three engines
+The percentage of four engine plane crashes in the total airplane crash data set is 4.5%.
+
 When further looking into the 16 Boeing 727 (3 Engines) crashes we can see that only 3 of those 16 crashes had injuries, none of them including fatal injuries.
 Number DCA09FA048: 11 Serious Injuries, 1 Minor Injury
 Number DCA82IA031: 1 Serious Injury, 1 Minor Injury
