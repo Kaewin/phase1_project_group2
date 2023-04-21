@@ -45,7 +45,7 @@ For example, A SeaPlane is a commercial plane that has 1 engine and can only hol
 
 For an even more narrow list i.e the ‘make’ determines what kind of plane you are using meaning which means that certain makes won't be relevant for the comparison needed.
 
-![alt text](https://github.com/Kaewin/phase1_project_group2/blob/main/engnum.png)
+![alt text](https://github.com/Kaewin/phase1_project_group2/blob/main/Images/engnum.png)
 
 The Number of engines determine how large the plane is i.e the smaller the engine number the smaller the plane, 
 
@@ -53,7 +53,7 @@ This brings us back to determining the size capacity of the aircraft so we will 
 
 once we determine what of plane we are interested in we can analyze the crashes based on our specific plane type… because we can actually take the “engine_type” and see which engine type has the most fatalities 
 
-![alt text](https://github.com/Kaewin/phase1_project_group2/blob/main/engtype.png)
+![alt text](https://github.com/Kaewin/phase1_project_group2/blob/main/Images/engtype.png)
 
 Potentially deciding to cross off a value that will not be used for our specific aircraft for a business - for example the Reciprocating engine type is a single engine and has the most crashes compared to other engine types it is also rarely used today so we probably wouldn't be recommending an aircraft with that engine type.
 
@@ -85,14 +85,14 @@ Number DFW06LA024: 1 Serious Injury
 ### Three Visualizations
 
 - Visualization one is a comparison of the all crashes for any make with with three engines. The color of each make's bar represents how many were Injured in the total number of crashes, while the text represens how many were uninjured for the total amount of crahses.
-![alt text](https://github.com/Kaewin/phase1_project_group2/blob/main/Plane%20makes%20with%20three%20engines%20displaying%20how%20many%20injured%20or%20uninjured%20in%20all%20crashes.png)
+![alt text](https://github.com/Kaewin/phase1_project_group2/blob/main/Images/alex_vis.png)
 
 - Visualization two is comparing the aircraft damage between the three planes. 
 
-![2rd viz](https://github.com/Kaewin/phase1_project_group2/blob/main/vis_kaelyn_resized_again.png)
+![2rd viz](https://github.com/Kaewin/phase1_project_group2/blob/main/Images/kaelyn_vis.png)
 
 - Visualization three shows which helicopter model holds the highest average of uninjured passengers during a helicopter accident.
-![3rd viz](https://user-images.githubusercontent.com/116228715/233688979-650bbac8-6bd4-440c-828e-1131844236b8.png)
+![3rd viz](https://github.com/Kaewin/phase1_project_group2/blob/main/Images/jonathan_vis.png)
 
 
 # Conclusion
