@@ -43,7 +43,7 @@ For example, A SeaPlane is a commercial plane that has 1 engine and can only hol
 
 For an even more narrow list i.e the ‘make’ determines what kind of plane you are using meaning which means that certain makes won't be relevant for the comparison needed.
 
-*
+![alt text](https://github.com/Kaewin/phase1_project_group2/blob/main/engnum.png)
 
 The Number of engines determine how large the plane is i.e the smaller the engine number the smaller the plane, 
 
