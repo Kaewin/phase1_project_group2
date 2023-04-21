@@ -11,7 +11,7 @@
 https://github.com/Kaewin/phase1_project_group2/blob/main/eda_file_fixed.ipynb
 
 ### Link to Interactive Dashboard:
-[Tableau](https://public.tableau.com/app/profile/jonnie.brown/viz/LowRiskAviation/LowRiskAviation?publish=yes)
+[Tableau](https://public.tableau.com/app/profile/jonnie.brown/viz/LowRiskAviation/LowRiskAviation#1)
 
 # Overview
 
