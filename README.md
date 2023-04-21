@@ -11,7 +11,6 @@
 https://github.com/Kaewin/phase1_project_group2/blob/main/eda_file_fixed.ipynb
 
 
-
 # Overview
 
 We were hired by a company that is looking to expand into the aircraft industry, with an interest in private and commercial enterprises. 
@@ -33,9 +32,11 @@ https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses
 
 ### Description of Our Data
 
-This data contains plane crash information from as early as 1948 to 2021 consisting our various components explaining each crash like the make and model of the plane that crashed and the damage done to the plane from the accident, etc.
+This data contains plane crash information from as early as 1948 to 2021 consisting our various components explaining each crash like the make and model of the plane that crashed, the damage done to the plane from the accident, the number of enines on the plane tha crashes, how many were injured or uninjured throghout the crashes, etc.
+
 
 ### Researching our Findings Regarding the Engines
+
 The Reciprocating engine was developed in the 18th century and stopped being as largely used in 1994. 
 
 A reciprocating engine is only one combustion engine hence they can only power small planes. (i.e 20 people)
@@ -45,13 +46,33 @@ We decided to exclude the reciprocating engine and any makes with only 1 engine 
 There are also crashes with 6 and 8 engines… those are not common and its unusual for a commercial passenger plane to have more than 4 engines. We also decided to exclude these engines.
 
 
+### Filtering Data
+
+What business are we operating with i.e -20 plane or - 300 plane? 
+
+For example, A SeaPlane is a commercial plane that has 1 engine and can only hold a max of 20 people, this can help us filter out other columns like 
+
+For an even more narrow list i.e the ‘make’ determines what kind of plane you are using meaning which means that certain makes won't be relevant for the comparison needed.
+
+*
+
+The Number of engines determine how large the plane is i.e the smaller the engine number the smaller the plane, 
+
+This brings us back to determining the size capacity of the aircraft so we will need to choose what kind of commercial or private plane is our company interested in,
+
+once we determine what of plane we are interested in we can analyze the crashes based on our specific plane type… because we can actually take the “engine_type” and see which engine type has the most fatalities 
+
+*
+
+Potentially deciding to cross off a value that will not be used for our specific aircraft for a business - for example the Reciprocating engine type is a single engine and has the most crashes compared to other engine types it is also rarely used today so we probably wouldn't be recommending an aircraft with that engine type.
+
+
 ### Three Visualizations
 
 - Visualization one is a comparison of the all crashes for any make with with three engines. The color of each make's bar represents how many were Injured in the total number of crashes, while the text represens how many were uninjured for the total amount of crahses.
 ![alt text](https://github.com/Kaewin/phase1_project_group2/blob/main/Plane%20makes%20with%20three%20engines%20displaying%20how%20many%20injured%20or%20uninjured%20in%20all%20crashes.png)
 
 - Visualization two is comparing the aircraft damage between the three planes. 
-
 ![2rd viz](https://github.com/Kaewin/phase1_project_group2/blob/main/visualization_carrier_damage2.png)
 
 - Visualization three shows which helicopter model holds the highest average of uninjured passengers during an accident.
