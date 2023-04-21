@@ -97,7 +97,7 @@ Number DFW06LA024: 1 Serious Injury
 ![2rd viz](https://github.com/Kaewin/phase1_project_group2/blob/main/Images/kaelyn_vis.png)
 
 - Visualization three shows which helicopter model holds the highest average of uninjured passengers during a helicopter accident.
-![3rd viz](https://github.com/Kaewin/phase1_project_group2/blob/main/Images/jonathan_vis.png)
+![3rd viz](https://user-images.githubusercontent.com/116228715/233738129-9a0fc6e0-889a-4811-94b0-d1ec81cc2e40.png)
 
 
 # Conclusion
