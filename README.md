@@ -91,9 +91,9 @@ Number DFW06LA024: 1 Serious Injury
 
 After analysing the data and forming our visualizations we are able to come to the conclusion of recommending the following for passenger and cargo transportation via plane, and the (testing) helicopter;
 
-- The Boeing 747 becuase the Boeing 747 has a balance of both safety and space, a nose that opens, and also has the ability to carry passengers. 
-
 - The Boeing 727 make is the only Boeing make with three engines, and since three engine makes are the safest we will therfore reccommend that for passenger commercial planes.
+
+- The Boeing 747 for cargo transportation becuase the Boeing 747 has a balance of both safety and space, a nose that opens, and also has the ability to carry passengers.
 
 - And the Sikorsky S-92A helicopter for private enterprises since it holds the highest average of uninjured passengers during crashes. 
 
