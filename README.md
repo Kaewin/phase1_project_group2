@@ -64,9 +64,9 @@ The Reciprocating engine was developed in the 18th century and stopped being as 
 
 A reciprocating engine is only one combustion engine hence they can only power small planes. (i.e 20 people)
 
-We decided to exclude the reciprocating engine and any makes with only 1 engine from our data to  determine what to recommend for planes. 
+We decided to exclude the reciprocating engine and any makes with only 1 engine from our data to determine what to recommend for planes. 
 
-There are also crashes with 6 and 8 engines… those are not common and its unusual for a commercial passenger plane to have more than 4 engines. We also decided to exclude these engines.
+There are also crashes with 6 and 8 engines. Those are not common and its unusual for a commercial passenger plane to have more than 4 engines. We also decided to exclude these engines.
 
 When further looking into the 16 Boeing 727 (3 Engines) crashes we can see that only 3 of those 16 crashes had injuries, none of them including fatal injuries.
 Number DCA09FA048: 11 Serious Injuries, 1 Minor Injury
@@ -83,8 +83,8 @@ Number DFW06LA024: 1 Serious Injury
 
 ![2rd viz](https://github.com/Kaewin/phase1_project_group2/blob/main/vis_kaelyn_resized_again.png)
 
-- Visualization three shows which helicopter model holds the highest average of uninjured passengers during an accident.
-![3rd viz](https://user-images.githubusercontent.com/116228715/233461232-6b1408a0-df16-4c88-9f62-3da7fe28af36.png)
+- Visualization three shows which helicopter model holds the highest average of uninjured passengers during a helicopter accident.
+![3rd viz](https://user-images.githubusercontent.com/116228715/233688979-650bbac8-6bd4-440c-828e-1131844236b8.png)
 
 
 # Conclusion
@@ -95,7 +95,7 @@ After analysing the data and forming our visualizations we are able to come to t
 
 - The Boeing 727 make is the only Boeing make with three engines, and since three engine makes are the safest we will therfore reccommend that for passenger commercial planes.
 
-- And the Sikorsky S76 helicopter for private enterprises since it has reliably held a high number of average uninjured passengers over time and because the Bell 214ST ceased production in 1993.
+- And the Sikorsky S-92A helicopter for private enterprises since it holds the highest average of uninjured passengers during crashes. 
 
 
 # References
@@ -114,7 +114,7 @@ Business Jet Traveler. “Boeing BBJ 747-8i,” October 27, 2021. https://bjtonl
 
 “Reciprocating Engine.” In Wikipedia, March 14, 2023. https://en.wikipedia.org/w/index.php?title=Reciprocating_engine&oldid=1144567996.
 
-“Sikorsky S-76.” In Wikipedia, March 28, 2023. https://en.wikipedia.org/w/index.php?title=Sikorsky_S-76&oldid=1147115454.
+“Sikorsky S-92.” In Wikipedia, March 28, 2023. https://en.wikipedia.org/wiki/Sikorsky_S-92.
 
 Boeing 747 articles:
 https://thefearofflying.com/articles/what-is-the-safest-commercial-airplane/
