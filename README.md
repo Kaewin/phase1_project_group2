@@ -2,8 +2,10 @@
 ![alt text](https://www.airpics.net/UserFiles/pics/large/PH-BFH-Boeing-747-400M-KLM-Royal-Dutch-Airlines/15650/15622l.jpg)
 
 ### Link to the Presentation:
-[file:///C:/Users/16047/Desktop/Presentaion.pdf
-](https://docs.google.com/presentation/d/1enJwfd8tEOVktCor2oLFIEsfJo3zUZKYbw-Betb_ivA/edit?usp=sharing)
+[Google Slides](https://docs.google.com/presentation/d/1enJwfd8tEOVktCor2oLFIEsfJo3zUZKYbw-Betb_ivA/edit?usp=sharing)
+
+### Link to shared Google document
+[Google Document](https://docs.google.com/document/d/1E14m0Rzj6lvLjL-SPDnxHwR3FHaAxe7cRZ2fNWmaQ-M/edit)
 
 ### Link to the Notebook:
 https://github.com/Kaewin/phase1_project_group2/blob/main/eda_file_fixed.ipynb
