@@ -46,7 +46,7 @@ This data contains aircraft crash information from as early as 1948 to 2021 cons
 
 What business are we operating with i.e. - 20 plane or - 300 plane? 
 
-For example, A SeaPlane is a commercial plane that has 1 engine and can only hold a max of 20 people, this can help us filter out other columns like 
+For example, A SeaPlane is a commercial plane that has 1 engine and can only hold a max of 20 people, this can help us filter out other columns. 
 
 For an even more narrow list i.e. the ‘make’ determines what kind of plane you are using meaning which means that certain makes won't be relevant for the comparison needed.
 
@@ -54,13 +54,13 @@ For an even more narrow list i.e. the ‘make’ determines what kind of plane y
 
 The number of engines determines how large the plane is i.e. the smaller the engine number the smaller the plane.
 
-This brings us back to determining the size capacity of the aircraft so we will need to choose what kind of commercial or private plane is our company interested in.
+This brings us back to determining the size capacity of the aircraft so we will need to choose what kind of commercial or private plane our company interested in.
 
-Once we determine what of plane we are interested in we can analyze the crashes based on our specific plane type… because we can actually take the “engine_type” and see which engine type has the most fatalities 
+Once we determine what of plane we are interested in we can analyze the crashes based on our specific plane type because we can actually take the “engine_type” and see which engine type has the most fatalities.
 
 ![alt text](https://github.com/Kaewin/phase1_project_group2/blob/main/Images/engtype.png)
 
-Potentially deciding to cross off a value that will not be used for our specific aircraft for a business - for example the Reciprocating engine type is a single engine and has the most crashes compared to other engine types it is also rarely used today so we probably wouldn't be recommending an aircraft with that engine type.
+Potentially deciding to cross off a value that will not be used for our specific aircraft for a business - for example the Reciprocating engine type is a single engine and has the most crashes compared to other engine types it is also rarely used today so we probably wouldn't be recommending an airplane with that engine type.
 
 
 
@@ -102,7 +102,7 @@ Number DFW06LA024: 1 Serious Injury
 
 # Conclusion
 
-After analysing the data and forming our visualizations we are able to come to the conclusion of recommending the following for passenger and cargo transportation via plane, and the (testing) helicopter;
+After analysing the data and forming our visualizations we are able to come to the conclusion of recommending the following for passenger and cargo transportation via plane, and private enterprises via helicopter:
 
 - The Boeing 727 make is the only Boeing make with three engines, and since three engine makes are the safest we will therfore reccommend that for passenger commercial planes.
 
