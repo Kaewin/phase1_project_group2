@@ -46,7 +46,7 @@ This data contains aircraft crash information from as early as 1948 to 2021 cons
 
 What business are we operating with i.e. - 20 plane or - 300 plane? 
 
-For example, A SeaPlane is a commercial plane that has 1 engine and can only hold a max of 20 people, this can help us filter out other columns like 
+For example, A SeaPlane is a commercial plane that has 1 engine and can only hold a max of 20 people, this can help us filter out other columns. 
 
 For an even more narrow list i.e. the ‘make’ determines what kind of plane you are using meaning which means that certain makes won't be relevant for the comparison needed.
 
